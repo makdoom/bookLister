@@ -1,0 +1,14 @@
+{
+  "name": "library-app",
+  "version": "1.0.0",
+  "description": "A Book Listing App Using HTML, CSS(Sass), Bootstrap and Vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Makdoom Shaikh",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
